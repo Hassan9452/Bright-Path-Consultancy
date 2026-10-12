@@ -125,7 +125,7 @@
     nav.innerHTML = `
       <div class="nav-inner">
         <a href="index.html" class="nav-logo">
-          <div class="nav-logo-mark"><img src="Website Images/website_logo_favicon.ico" alt="Bright Path Logo"></div>
+          <div class="nav-logo-mark"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 7 L31 12 L20 17 L9 12 Z" fill="#ffffff"/><path d="M20 17 L20 22.5" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/><circle cx="26" cy="23.5" r="1.6" fill="#ffffff"/><path d="M7 25 Q13.5 23 20 27 Q26.5 23 33 25 L33 33 Q26.5 31 20 35 Q13.5 31 7 33 Z" fill="#ffffff" opacity="0.95"/></svg></div>
           <div class="nav-logo-text">
             BRIGHT PATH
             <span>Education Consultancy</span>
@@ -173,7 +173,7 @@
       mobileMenu.innerHTML = `
         <div class="mobile-menu-panel">
           <div class="nav-logo" style="margin-bottom: 0;">
-            <div class="nav-logo-mark"><img src="Website Images/website_logo_favicon.ico" alt="Bright Path Logo"></div>
+            <div class="nav-logo-mark"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 7 L31 12 L20 17 L9 12 Z" fill="#ffffff"/><path d="M20 17 L20 22.5" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/><circle cx="26" cy="23.5" r="1.6" fill="#ffffff"/><path d="M7 25 Q13.5 23 20 27 Q26.5 23 33 25 L33 33 Q26.5 31 20 35 Q13.5 31 7 33 Z" fill="#ffffff" opacity="0.95"/></svg></div>
             <div class="nav-logo-text">
               BRIGHT PATH
               <span>Education Consultancy</span>
@@ -234,7 +234,7 @@
         <div class="footer-grid">
           <div class="footer-brand footer-col">
             <div class="footer-logo">
-              <div class="nav-logo-mark"><img src="Website Images/website_logo_favicon.ico" alt="Bright Path Logo"></div>
+              <div class="nav-logo-mark"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 7 L31 12 L20 17 L9 12 Z" fill="#ffffff"/><path d="M20 17 L20 22.5" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/><circle cx="26" cy="23.5" r="1.6" fill="#ffffff"/><path d="M7 25 Q13.5 23 20 27 Q26.5 23 33 25 L33 33 Q26.5 31 20 35 Q13.5 31 7 33 Z" fill="#ffffff" opacity="0.95"/></svg></div>
               <div class="nav-logo-text">
                 BRIGHT PATH
                 <span>Education Consultancy</span>
