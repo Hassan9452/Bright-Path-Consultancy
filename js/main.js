@@ -125,7 +125,7 @@
     nav.innerHTML = `
       <div class="nav-inner">
         <a href="index.html" class="nav-logo">
-          <div class="nav-logo-mark"><img src="Website Images/logo_vector.svg" alt="Bright Path Logo"></div>
+          <div class="nav-logo-mark"><img src="Website Images/logo_vector.svg?v=3" alt="Bright Path Logo"></div>
           <div class="nav-logo-text">
             BRIGHT PATH
             <span>Education Consultancy</span>
@@ -173,7 +173,7 @@
       mobileMenu.innerHTML = `
         <div class="mobile-menu-panel">
           <div class="nav-logo" style="margin-bottom: 0;">
-            <div class="nav-logo-mark"><img src="Website Images/logo_vector.svg" alt="Bright Path Logo"></div>
+            <div class="nav-logo-mark"><img src="Website Images/logo_vector.svg?v=3" alt="Bright Path Logo"></div>
             <div class="nav-logo-text">
               BRIGHT PATH
               <span>Education Consultancy</span>
@@ -234,7 +234,7 @@
         <div class="footer-grid">
           <div class="footer-brand footer-col">
             <div class="footer-logo">
-              <div class="nav-logo-mark"><img src="Website Images/logo_vector.svg" alt="Bright Path Logo"></div>
+              <div class="nav-logo-mark"><img src="Website Images/logo_vector.svg?v=3" alt="Bright Path Logo"></div>
               <div class="nav-logo-text">
                 BRIGHT PATH
                 <span>Education Consultancy</span>
